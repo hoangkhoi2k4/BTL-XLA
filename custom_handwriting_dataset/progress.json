@@ -1,0 +1,106 @@
+{
+  "A": {
+    "train": 50,
+    "test": 11
+  },
+  "B": {
+    "train": 50,
+    "test": 10
+  },
+  "C": {
+    "train": 50,
+    "test": 12
+  },
+  "D": {
+    "train": 50,
+    "test": 11
+  },
+  "E": {
+    "train": 50,
+    "test": 10
+  },
+  "F": {
+    "train": 50,
+    "test": 11
+  },
+  "G": {
+    "train": 51,
+    "test": 10
+  },
+  "H": {
+    "train": 50,
+    "test": 11
+  },
+  "I": {
+    "train": 50,
+    "test": 10
+  },
+  "J": {
+    "train": 50,
+    "test": 11
+  },
+  "K": {
+    "train": 50,
+    "test": 11
+  },
+  "L": {
+    "train": 50,
+    "test": 11
+  },
+  "M": {
+    "train": 50,
+    "test": 11
+  },
+  "N": {
+    "train": 50,
+    "test": 10
+  },
+  "O": {
+    "train": 50,
+    "test": 10
+  },
+  "P": {
+    "train": 50,
+    "test": 12
+  },
+  "Q": {
+    "train": 50,
+    "test": 10
+  },
+  "R": {
+    "train": 50,
+    "test": 10
+  },
+  "S": {
+    "train": 50,
+    "test": 10
+  },
+  "T": {
+    "train": 50,
+    "test": 10
+  },
+  "U": {
+    "train": 50,
+    "test": 11
+  },
+  "V": {
+    "train": 50,
+    "test": 11
+  },
+  "W": {
+    "train": 50,
+    "test": 10
+  },
+  "X": {
+    "train": 50,
+    "test": 10
+  },
+  "Y": {
+    "train": 50,
+    "test": 17
+  },
+  "Z": {
+    "train": 51,
+    "test": 11
+  }
+}
